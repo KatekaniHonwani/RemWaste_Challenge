@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REMWASTE>
+	<login>
+
+		<txtTitle>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="main-menu"]/li[6]/div/button</Element>
+		</txtTitle>
+
+		<mainMenu>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="main-menu"]/li[6]/div/button</Element>
+		</mainMenu>
+
+		<txtEmail>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/header/dialog/div/div/form/input[1]</Element>
+		</txtEmail>
+
+		<txtPassword>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/header/dialog/div/div/form/input[2]</Element>
+		</txtPassword>
+
+		<buttonlogin>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/header/dialog/div/div/form/div/button</Element>
+		</buttonlogin>
+
+		<pizzaMenu>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/main/section[1]/ul</Element>
+		</pizzaMenu>
+
+
+		<txtPizzaSearch>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/main/section[1]/form/input
+			</Element>
+		</txtPizzaSearch>s
+
+		<btnAddItemToCart>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/main/section[2]/div/article/div/button</Element>
+		</btnAddItemToCart>
+
+		<InavlidLogin>
+			<identifier>xpath</identifier>
+			<Element>//*[@id='div_error_message']</Element>
+		</InavlidLogin>
+
+		<InavlidLoginmsg>
+			<identifier>id</identifier>
+			<Element>div_error_message</Element>
+		</InavlidLoginmsg>
+
+	</login>
+</REMWASTE>

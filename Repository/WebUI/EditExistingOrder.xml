@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REMWASTE>
+	<EditNItem>
+
+		<txtPizzaSearch>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/main/section[1]/form/input
+			</Element>
+		</txtPizzaSearch>s
+
+		<btnCart>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="main-menu"]/li[7]/div/a[2]</Element>
+		</btnCart>
+
+		<btnAddMore>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/main/section/article/div/div/div/button[1]</Element>
+		</btnAddMore>
+
+		<btnRemove>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="main-menu"]/li[7]/div/a[2]</Element>
+		</btnRemove>
+
+		<btnLogout>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="main-menu"]/li[7]/div/a[1]</Element>
+		</btnLogout>
+
+	</EditNItem>
+</REMWASTE>

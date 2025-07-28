@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REMWASTE>
+	<addNewItem>
+
+		<viewMore>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/section[1]/div/div[2]/a[2]</Element>
+		</viewMore>
+
+		<pizzaMenu>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/main/section[2]/div[1]/article/div/button</Element>
+		</pizzaMenu>
+
+
+		<txtPizzaSearch>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/main/section[1]/form/input
+			</Element>
+		</txtPizzaSearch>s
+
+		<btnAddItemToCart>
+			<identifier>xpath</identifier>
+			<Element>//*[@id="root"]/main/section[2]/div/article/div/button</Element>
+		</btnAddItemToCart>
+
+		<InavlidLogin>
+			<identifier>xpath</identifier>
+			<Element>//*[@id='div_error_message']</Element>
+		</InavlidLogin>
+
+		<InavlidLoginmsg>
+			<identifier>id</identifier>
+			<Element>div_error_message</Element>
+		</InavlidLoginmsg>
+
+	</addNewItem>
+</REMWASTE>

@@ -1,0 +1,12 @@
+{
+    "weburl": "https://pizza-time-with-react.vercel.app/",
+	"StateMarker":"Completed",
+	"API":"No",
+	"replaceReportFlag":"false",
+	"datatype":"EXCEL",
+	"datalocation":"\\data\\",
+	"PayloadFilePath":"\\PayloadFiles\\",
+	"sendemail": "false"
+}
+
+
