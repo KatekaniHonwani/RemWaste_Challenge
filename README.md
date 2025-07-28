@@ -1,30 +1,30 @@
 
 # Rem Waste Selenium Framework
 
-#Test Strategy Summary
+# Test Strategy Summary
 
-#Objective: 
+# Objective: 
 ## Validate key user journeys on the Pizza Time UI and CRUD operations via Petstore API.
 
-#Test Coverage:
+# Test Coverage:
 
 Frontend: Add/remove from cart
 
 Backend: Auth, Create/Read/Update/Delete pet records
 
-#Tools Used:
+# Tools Used:
 
 Selenium + TestNG for UI
 
 REST-assured for API
 
-##Directory 
+## Directory 
 
 API - "src/test/java/api"
 WEBUI - "src/test/java/WebUI"
-#Execution:
+# Execution:
 
-##Compile the project:
+## Compile the project:
 
 mvn clean compile
 
@@ -33,7 +33,7 @@ UI: mvn test
 API: mvn test (separate test class/package)
 
 
-##Open report:
+## Open report:
 
 Screenshorts - \ScreenshortsSubfolder
 start "" "report\index.html" 
