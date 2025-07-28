@@ -1,5 +1,5 @@
 
-# Rem Waste Selenium Framework
+# RemWaste Selenium Framework
 
 # Test Strategy Summary
 
